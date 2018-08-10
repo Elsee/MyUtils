@@ -12,14 +12,22 @@
   "dependencies": {
     "autoprefixer": "^9.1.0",
     "json-stringify-safe": "^5.0.1",
-    "less": "^3.8.0",
+    "less": "^3.8.1",
     "minimist": "^1.2.0",
-    "postcss": "6.0.23",
+    "perfectionist": "^2.4.0",
+    "postcss": "^7.0.2",
     "postcss-discard": "^0.1.1",
     "postcss-unprefix": "^2.1.3",
     "stylelint": "^9.4.0"
   },
   "devDependencies": {
-    "postcss-less": "^2.0.0"
+    "postcss-border": "^0.2.4",
+    "postcss-less": "^2.0.0",
+    "postcss-merge-longhand": "^4.0.4",
+    "postcss-prettify": "^0.3.4",
+    "prettier": "1.14.2",
+    "stylefmt": "^6.0.2",
+    "stylefmt-loader": "^1.2.3",
+    "stylehacks": "^4.0.0"
   }
 }
